@@ -3,4 +3,4 @@ https://colab.research.google.com/github/johann017/CMSC320-Final/blob/main/Final
 
 
 Data Kaggle Link: 
-https://www.kaggle.com/PromptCloudHQ/imdb-data
+https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
