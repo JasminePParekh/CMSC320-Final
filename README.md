@@ -1,6 +1,6 @@
 # CMSC320-Final
 
-##To do:
+## To do:
 - Limit Countries to U.S.
 - Limit Data from between 2000-2020
 - Analyze Revenue vs Genre
