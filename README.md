@@ -1,4 +1,4 @@
 # CMSC320-Final
 
 Data Kaggle Link: 
-https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+https://www.kaggle.com/PromptCloudHQ/imdb-data
