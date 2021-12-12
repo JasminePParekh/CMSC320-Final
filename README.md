@@ -7,11 +7,12 @@ https://www.kaggle.com/PromptCloudHQ/imdb-data
 CSV used:
 IMDB-Movie-Data.csv
 
-## To do:
+## Steps:
 - Clean Up Data
-  - Made 'Rank', 'Year', 'Runtime (Minutes)', 'Rating', 'Votes', 'Revenue (Millions)', 'Metascore' all into numeric types
-  - Made 'Genre' and 'Actors' into lists of strings
-  - Rest of datatypes should be strings
+  - Done:
+    - Made 'Rank', 'Year', 'Runtime (Minutes)', 'Rating', 'Votes', 'Revenue (Millions)', 'Metascore' all into numeric types
+    - Made 'Genre' and 'Actors' into lists of strings
+    - Rest of datatypes should be strings
 - Analysis:
   - Analyze Revenue vs Genre
   - Analyze Revenue vs Director
