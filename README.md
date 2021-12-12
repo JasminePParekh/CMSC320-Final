@@ -4,11 +4,14 @@
 Data Kaggle Link: 
 https://www.kaggle.com/PromptCloudHQ/imdb-data
 
+CSV used:
+IMDB-Movie-Data.csv
+
 ## To do:
 - Clean Up Data
-  - Limit Countries to U.S.
-  - Limit Data from between 2000-2020
-  - Convert year to int
+  - Made 'Rank', 'Year', 'Runtime (Minutes)', 'Rating', 'Votes', 'Revenue (Millions)', 'Metascore' all into numeric types
+  - Made 'Genre' and 'Actors' into lists of strings
+  - Rest of datatypes should be strings
 - Analysis:
   - Analyze Revenue vs Genre
   - Analyze Revenue vs Director
