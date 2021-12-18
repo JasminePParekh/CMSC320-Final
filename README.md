@@ -1,5 +1,6 @@
 # CMSC320-Final
 
+To view our project navigate to this link: 
 
 Data Kaggle Link: 
 https://www.kaggle.com/PromptCloudHQ/imdb-data
