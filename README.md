@@ -1,6 +1,6 @@
 # CMSC320-Final
 
-To view our project navigate to this link: 
+To view our project navigate [here](https://jasminepparekh.github.io/CMSC320-Final/):
 
 Data Kaggle Link: 
 https://www.kaggle.com/PromptCloudHQ/imdb-data
